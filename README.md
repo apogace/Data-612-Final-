@@ -1,1 +1,3 @@
-# Data-612-Final-
+This submission includes my work on the model and data, a CSV sheet of the predicted target variable, and a screenshot of my Kaggle submission. 
+The google collab file has the steps I took to pre-process the data, train the model, and how I got my predicted values. 
+In the picture of my Kaggle submission, you will see that when I tried to submit my data to the competition, I was met with an error message. I missed 464 of the original samples in my' id' field, so I could not complete the submission. I missed these values because some of the 'id's get distorted when I try and download the data from the kaggle website. In my Kaggle submission file, you can see these values get transformed into very long strings of digits. I tried various methods to sort this issue out, but I cannot download those values unaltered. For this reason, I am unable to provide a screenshot of my Kaggle competition score.
